@@ -1,0 +1,59 @@
+# Type :
+## Java-Script =>
+Java Script is a programming language. it running in any web browser
+with proper browser engine.
+
+## Node JS =>
+it is an interpreter and environment for Java Script with some specific
+useful libraries which Jave Script programming can use seperately.
+
+# Utility :
+## Java-Script =>
+Mainly using for any client side activity for a web application,
+like possible attribute validation or refreshing the page in a specific
+interval or provide some dynamic changes in web pages without refreshing the page.
+
+## Node JS =>
+it mainly using for accessing or performing any non-blocking operation of any operation 
+system, like creating or excuting shell script or accessing any hardware specific information 
+or running any backend job.
+
+# Running Engine :
+## Java Script =>
+Java Script running any engine like : FireFox, Safari, Google Chrome.
+
+## Node JS => 
+Node JS only run in V8 engine which mainly using by google chrome.
+and Java Script program which will be written under this Node JS 
+will be always run in V8 engine.
+
+# Definition :
+## Java Script =>
+is an open source, cross platform, iterpreted, light weight scripting programming language.
+
+## Node JS =>
+it is a server side platform which built on Chorme's JS engine (V8 Engine).
+
+# Used for :
+## Java Script =>
+it is designed to create network centric application as it is integrated with HTML and JAVA.
+
+## Node JS =>
+it is used for data intensive real time based application which runs across distributed devices.
+
+# Features :
+## Java Script =>
+1.Universal support
+2.Dynamic
+3.Impertive and structured
+4.Object oriented (prototype based).
+5.Delegative.
+6.Functional.
+7.Vender specific extensions.
+
+## Node Js =>
+1.Asynchronous and event driven.
+2.Very fast.
+3.Single threaded but highly scalable.
+4.License.
+5.No Buffering.
