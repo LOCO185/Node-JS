@@ -1,0 +1,21 @@
+Option 1
+users
+posts
+comments
+
+Good when accessing comments is independent, and generally not via post
+
+Option 2
+users
+posts
+   comments
+
+Good when accessing comments is always via their post
+
+Option 3
+users
+posts
+   comments
+comments
+
+Good when accessing comments directly and via posts
